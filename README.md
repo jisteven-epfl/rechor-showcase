@@ -2,6 +2,10 @@
 
 # 🚞 ReCHor: Swiss Public Transport Router
 
+<p align="center">
+  <b>English</b> | <a href="README_zh.md">简体中文</a>
+</p>
+
 > **Demonstration Only:** This repository is intended for project showcasing only. If you are interested in discussing the implementation or technical details, please contact **<example@epfl.com>**.
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)

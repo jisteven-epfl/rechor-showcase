@@ -2,6 +2,10 @@
 
 # 🚞 ReCHor: 瑞士公共交通路线规划引擎
 
+<p align="center">
+  <b>简体中文</b> | <a href="README.md">English</a>
+</p>
+
 > **演示说明：** 本仓库仅用于项目展示集。如需了解代码实现细节，请通过邮件联系：**<example@epfl.com>**。
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)
