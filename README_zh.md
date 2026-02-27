@@ -6,7 +6,7 @@
   <b>简体中文</b> | <a href="README.md">English</a>
 </p>
 
-> **演示说明：** 本仓库仅用于项目展示集。如需了解代码实现细节，请通过邮件联系：**<example@epfl.com>**。
+> **演示说明：** 本仓库仅用于项目展示集。如需了解代码实现细节，请通过邮件联系：**<steven.ji@epfl.com>**。
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithm-CSA-brightgreen.svg?style=flat-square)
@@ -118,8 +118,8 @@ ReCHor 并非通过 API 调用远程数据，而是直接运行在由 EPFL 提�
 
 ## ⚖️ 许可说明 (License)
 
-本项目代码包含洛桑联邦理工学院 (EPFL) 提供的部分框架代码。本仓库仅用于作者的个人成果展示与实习申请。根据课程规定，核心源代码不予公开。未经授权，禁止将本项目内容用于任何商业用途或学术抄袭。
+本项目代码包含洛桑联邦理工学院 (EPFL) 提供的部分框架代码。本仓库仅用于作者的个人成果展示与实习申请，核心源代码不予公开。未经授权，禁止将本项目内容用于任何商业用途或学术抄袭。
 
 ---
 
-> *本项目为**双人合作项目**，由 **[Steven Ji]** 与 **[Ayoub Ouederni]** 于 2024 年秋季学期完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。*
+> *本项目为**双人合作项目**，由 **Steven Ji** 与 **Ayoub Ouederni** 于 2024 年秋季学期完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。*

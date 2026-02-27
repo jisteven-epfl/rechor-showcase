@@ -6,7 +6,7 @@
   <b>English</b> | <a href="README_zh.md">简体中文</a>
 </p>
 
-> **Demonstration Only:** This repository is intended for project showcasing only. If you are interested in discussing the implementation or technical details, please contact **<example@epfl.com>**.
+> **Demonstration Only:** This repository is intended for project showcasing only. If you are interested in discussing the implementation or technical details, please contact **<steven.ji@epfl.com>**.
 
 ![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithm-CSA-brightgreen.svg?style=flat-square)
@@ -118,8 +118,8 @@ ReCHor does not rely on external APIs; it operates on a substantial **offline bi
 
 ## ⚖️ License & Copyright
 
-This project incorporates skeleton code provided by EPFL. This repository is maintained strictly for portfolio demonstration and internship application purposes. In compliance with academic integrity policies, the source code is not publicly available. All rights reserved by the authors and EPFL.
+This project incorporates skeleton code provided by EPFL. This repository is maintained strictly for portfolio demonstration and internship application purposes，thus the source code is not publicly available. All rights reserved by the authors and EPFL.
 
 ---
 
-> *This project was completed by **[Steven Ji]** and **[Ayoub Ouederni]** as a duo collaboration in the Fall 2024 semester for the EPFL course [Practice of Object-Oriented Programming (CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) (9 credits).*
+> *This project was completed by **Steven Ji** and **Ayoub Ouederni** as a duo collaboration in the Fall 2024 semester for the EPFL course [Practice of Object-Oriented Programming (CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) (9 credits).*
