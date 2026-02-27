@@ -122,4 +122,4 @@ ReCHor 并非通过 API 调用远程数据，而是直接运行在由 EPFL 提�
 
 ---
 
-> *本项目为**双人合作项目**，由 **Steven Ji** 与 **Ayoub Ouederni** 于 2024 年秋季学期完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。*
+> *本项目为**双人合作项目**，由 **Steven Ji** 与 **Ayoub Ouederni**，于 2024 年秋季学期历时11周完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。*
