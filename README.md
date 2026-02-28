@@ -116,10 +116,10 @@ ReCHor does not rely on external APIs; it operates on a substantial **offline bi
 - **Local Binary I/O**: Direct parsing of `.bin` and `.txt` files from a structured timetable directory.
 - **Memory-Mapped Files (mmap)**: Leveraging Java's `FileChannel` to project large binary archives into the process virtual address space. This ensures near-instantaneous data access with zero-copy overhead, bypassing traditional database query latency.
 
-## ⚖️ License & Copyright
+## ⚖️ License & Attribution
+This project was completed by **Steven Ji** and **Ayoub Ouederni** as a duo collaboration over 11 weeks in the Fall 2024 semester for the EPFL course [Practice of Object-Oriented Programming (CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) (9 credits).
 
-This project incorporates skeleton code provided by EPFL. This repository is maintained strictly for portfolio demonstration and internship application purposes，thus the source code is not publicly available. All rights reserved by the authors and EPFL.
-
----
-
-> *This project was completed by **Steven Ji** and **Ayoub Ouederni** as a duo collaboration in the Fall 2024 semester for the EPFL course [Practice of Object-Oriented Programming (CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) (9 credits).*
+### Intellectual Property & Compliance
+- **Course Materials:** All foundational frameworks, lab assignments, and base code are © 2023–2026 EPFL. In strict adherence to the course policy, no original course materials or source code are distributed in this repository.
+- **Original Contributions:** The implementation logic, optimized system architecture, and specific functional extensions represent the original intellectual property of the authors.
+- **Usage:** This repository serves solely as a portfolio showcase of the project's results, architectural design, and performance metrics.

@@ -116,10 +116,11 @@ ReCHor 并非通过 API 调用远程数据，而是直接运行在由 EPFL 提�
 - **本地二进制 I/O**：直接解析时刻表目录中的 `.bin` 和 `.txt` 结构化文件。
 - **内存映射文件 (MMAP)**：利用 Java 的 `FileChannel` 技术将大型二进制档案直接映射到进程的虚拟地址空间。这实现了“零拷贝”数据访问，跳过了传统数据库查询的延迟。
 
-## ⚖️ 许可说明 (License)
+## ⚖️ 项目署名
 
-本项目代码包含洛桑联邦理工学院 (EPFL) 提供的部分框架代码。本仓库仅用于作者的个人成果展示与实习申请，核心源代码不予公开。未经授权，禁止将本项目内容用于任何商业用途或学术抄袭。
+本项目为**双人合作项目**，由 **Steven Ji** 与 **Ayoub Ouederni**，于 2024 年秋季学期历时11周完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。
 
----
-
-> *本项目为**双人合作项目**，由 **Steven Ji** 与 **Ayoub Ouederni**，于 2024 年秋季学期历时11周完成，属于洛桑联邦理工学院 (EPFL) 的 [面向对象编程实践 (Practice of Object-Oriented Programming, CS-108)](https://edu.epfl.ch/coursebook/en/practice-of-object-oriented-programming-CS-108) 课程项目（9 学分）。*
+### 知识产权与合规性说明
+- **课程教材：** 所有基础框架、实验课题及底层代码的版权均属 © 2023–2026 EPFL 所有。本仓库严格遵守课程规定，不发布任何原始课程资料或源代码。
+- **原创贡献：** 项目中的实现逻辑、优化的系统架构以及特定的功能扩展均为作者的原创知识成果。
+- **项目用途：** 本仓库仅作为个人作品集使用，旨在展示项目成果、架构设计及性能指标。
