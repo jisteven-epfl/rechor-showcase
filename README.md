@@ -43,8 +43,6 @@ While constructed according to technical specifications, the project serves as a
 - **Flyweight/Buffered Pattern**: To keep the memory footprint minimal while scanning millions of connections, the system uses a custom `StructuredBuffer` architecture. Data is read directly from memory-mapped buffers only when needed, avoiding the overhead of creating millions of individual Java objects.
 - **Modern Java Idioms**: Extensively utilizes **Records**, **Sealed Interfaces**, and **Streams** to ensure a robust and type-safe codebase.
 
----
-
 ## 🧠 Core Techniques: Under the Hood
 
 ### 1. Multi-Objective Optimization: The Pareto Front
@@ -93,8 +91,6 @@ In ReCHor's `Router.java` module, this scan must evaluate millions of connection
 Once the Connection Scan Algorithm completes its single sweep, ReCHor possesses the complete Pareto front for the departure station. But the front alone only tells us the abstract metrics (e.g., depart 16:13, arrive 17:28, 3 changes) without tracking the geographic turns.
 
 ReCHor solves this elegantly by using the "payload" bits of our 64-bit integer trackers. When constructing the Pareto frontiers, it leaves behind breadcrumbs—recording precisely which chronological connection index to board and how many stops to ride before the next decision point. A specialized extractor module uses this data to string back together the real-world, turn-by-turn journey for the passenger.
-
----
 
 ## 🛠 Features Summary
 
