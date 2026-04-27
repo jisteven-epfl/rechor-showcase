@@ -8,7 +8,7 @@
 
 > **项目展示专用：** 为遵守 EPFL CS-214 课程严格的学术诚信与版权协议，本项目的源代码不可公开或私下分享。但我非常乐意在面试的屏幕共享环节，为您实时展示并深度讲解核心逻辑与技术细节。如有交流意向，请联系：**<steven.ji@epfl.com>**。
 
-![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21+-blue.svg?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithm-CSA-brightgreen.svg?style=flat-square)
 ![Optimization](https://img.shields.io/badge/Optimization-Pareto__Front-orange.svg?style=flat-square)
 ![EPFL](https://img.shields.io/badge/School-EPFL-red.svg?style=flat-square)
