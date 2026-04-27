@@ -8,7 +8,7 @@
 
 > **Demonstration Only:** This repository is intended for project showcasing only. If you are interested in discussing the implementation or technical details, please contact **<steven.ji@epfl.com>**.
 
-![Java](https://img.shields.io/badge/Java-17+-blue.svg?style=flat-square)
+![Java](https://img.shields.io/badge/Java-21+-blue.svg?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithm-CSA-brightgreen.svg?style=flat-square)
 ![Optimization](https://img.shields.io/badge/Optimization-Pareto__Front-orange.svg?style=flat-square)
 ![EPFL](https://img.shields.io/badge/School-EPFL-red.svg?style=flat-square)
